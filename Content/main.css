@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.nav li {
+  display: inline;
+}
+.jumbotron {
+  background-image:url('Assets/main.png');
+}
+textarea {
+    resize: none;
+}
